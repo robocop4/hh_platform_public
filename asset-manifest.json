@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/hh_platform_public/static/js/main.f5f6ab12.js",
+    "main.js": "/hh_platform_public/static/js/main.c209e179.js",
     "static/js/453.1e45fcff.chunk.js": "/hh_platform_public/static/js/453.1e45fcff.chunk.js",
     "index.html": "/hh_platform_public/index.html",
-    "main.f5f6ab12.js.map": "/hh_platform_public/static/js/main.f5f6ab12.js.map",
+    "main.c209e179.js.map": "/hh_platform_public/static/js/main.c209e179.js.map",
     "453.1e45fcff.chunk.js.map": "/hh_platform_public/static/js/453.1e45fcff.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f5f6ab12.js"
+    "static/js/main.c209e179.js"
   ]
 }
